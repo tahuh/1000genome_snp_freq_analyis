@@ -28,7 +28,7 @@ This will create 3 files.
 2. whole_genes_in_same_file.original.biomart.result.txt - Integrated files
 3. whole_genes_in_same_file.txlength.selected.txt - From file 2, the longest 1) protein sequence, 2)transcript length is chosen
 
-Use Ensembl's liftOver (Assembly Converter[http://www.ensembl.org/Homo_sapiens/Tools/AssemblyConverter]) to change genomic coordinate from GRCh38 to GRCh37 since as of 20-01-2020, the 1000 genome result is GRCh37 and bioMart uses GRCh38.
+Use Ensembl's [liftOver a.k.a. Assembly Converter](http://www.ensembl.org/Homo_sapiens/Tools/AssemblyConverter]) to change genomic coordinate from GRCh38 to GRCh37 since as of 20-01-2020, the 1000 genome result is GRCh37 and bioMart uses GRCh38.
 
 After that use separate_by_liftover_gene.py to split all data
 
