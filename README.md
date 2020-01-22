@@ -3,7 +3,7 @@
 
 
 # 1000 genome Amplification Allele Frequency
-From 1000 Genomes Allele Frequency Calculator [http://grch37.ensembl.org/info/docs/tools/allelefrequency/index.html] result for some genes
+From 1000 Genomes [Allele Frequency Calculator](http://grch37.ensembl.org/info/docs/tools/allelefrequency/index.html) result for some genes
 
 ## Example gene list
 
