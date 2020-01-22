@@ -36,7 +36,7 @@ Then run snpAlleleFreqStat.py for stat calculation
 
 Finally run postProcess.R for table build
 
-Note. snpCover.R is a script to analyze how many SNPs are covered in cohort. Please change to proper filename at *line 13* and *line 23*
+Note. snpCover.R is a script to analyze how many SNPs are covered in cohort. Please change to proper filename at *line 13* , *line 23* and *the last line*
 
 ## Genome build
 

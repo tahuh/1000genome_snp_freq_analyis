@@ -56,5 +56,5 @@ for(gene in genes){
 	MDF <- rbind(MDF, new.df)
 }
 
-
-write.table(MDF, "ALColon_30pts_cover.txt", sep="\t", quote=F, row.names=F)
+# proper outfile name
+write.table(MDF, outfile.name, sep="\t", quote=F, row.names=F)
